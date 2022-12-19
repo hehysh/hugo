@@ -82,21 +82,27 @@ params:
             clientSecret:
             autoCreateIssue: false
 
-        # Waline client configuration see: https://waline.js.org/en/reference/client.html
-        waline:
-            serverURL: waline.hehysh.eu.org
-            lang: zh-CN
-            visitor:
-            avatar:
-            emoji:
-                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
-            requiredMeta:
-                - name
-                - email
-            placeholder:
+       waline:
+            enable: true #是否开启
+            dark: 'body.darkmode--activated'
+            serverURL: waline.hehysh.eu.org # Waline #服务端地址，我们这里就是上面部署的 Vercel 地址
             locale:
-                admin: Admin
-
+                placeholder: 疑义相与析，畅所欲言，留下你的足迹吧！不登录，不填邮箱也没关系哒 # #评论框的默认文字
+            avatar: mm # 头像风格
+            meta: [nick,mail] # 自定义评论框上面的三个输入框的内容
+            pageSize: 20 # 评论数量多少时显示分页
+            lang: zh-cn # 语言, 可选值: en, zh-cn
+            visitor: true # 文章阅读统计
+            comment_count: true # 如果为 false , 评论数量只会在当前评论页面显示, 主页则不显示
+            requiredFields: [nick] # 设置用户评论时必填的信息，[nick,mail]: [nick] | [nick, mail]
+            libUrl: https://unpkg.com/@waline/client@v2/dist/waline.js # Set custom library cdn url
+            login: enable
+            emoji:
+                - https://unpkg.com/@waline/emojis@1.0.1/weibo
+                - https://unpkg.com/@waline/emojis@1.0.1/alus
+                - https://unpkg.com/@waline/emojis@1.0.1/bilibili
+                - https://unpkg.com/@waline/emojis@1.0.1/tieba
+                - https://unpkg.com/@waline/emojis@1.0.1/tw-emoji
         twikoo:
             envId: twikoo-2g36bkuz88660f27
             region:
