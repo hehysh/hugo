@@ -1,8 +1,8 @@
-baseurl: https://lmm.pages.dev
-languageCode: en-us
+baseurl: https://hugo.nbplus.eu.org
+languageCode: zh-CN
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: 周五晚报
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -30,7 +30,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
@@ -55,7 +55,7 @@ params:
 
     comments:
         enabled: true
-        provider: twikoo
+        provider: waline
 
         disqusjs:
             shortname:
@@ -84,8 +84,8 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/client.html
         waline:
-            serverURL:
-            lang:
+            serverURL: waline.hehysh.eu.org
+            lang: zh-CN
             visitor:
             avatar:
             emoji:
@@ -93,7 +93,6 @@ params:
             requiredMeta:
                 - name
                 - email
-                - url
             placeholder:
             locale:
                 admin: Admin
