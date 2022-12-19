@@ -2,7 +2,7 @@
 author: 周五晚报编辑部
 title: 第三期
 date: 2019-03-08
-description: A brief guide to setup KaTeX
+description: 和同学们聊聊世界杯和疫情！
 math: true
 ---
 周五晚报 第三期（注：第二期请移步至zyk，微信号zyk220601jeremy）
