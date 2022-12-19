@@ -16,20 +16,12 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+周五晚报为联盟对外宣传报刊，信息发布规定条例:（编写：顾奕铭、朱宇阔）
+1.国家大事不可不写，其余校外新闻最多写一条，国外消息若事态大则可写两条，若事态小则最多写一条；
+2.所有编辑所写新闻必须添加1－2条供稿，否则不予刊登；
+3.所写初稿必须经过主编（顾奕铭）、副主编（朱宇阔）二人全票通过，否则不可发布，且主编与副主编不可擅自发布未经同意发布的新闻稿，发布形式为二人联合发布，信息文字必须相同
+4. 联盟中任何人都可以加盟周报，并且不需要进行审查
+以上规定不可由任何人员违反，但在两位主编共同通过的原因下可以进行部分违反
+两个基本原则：学生为中心；反制服   必须遵守（王浩宇负责意识形态工作，保证基本原则的执行）
+何昊阳负责联盟（周报）技术工作【特别提名】
+[图片]
