@@ -1,11 +1,7 @@
 ---
+author: 周五晚报编辑部
 title: "{{ replace .Name "-" " " | title }}"
-description: 
 date: {{ .Date }}
-image: 
-math: 
-license: 
-hidden: false
-comments: true
-draft: true
+description: 
+math: true
 ---

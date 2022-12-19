@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 周五晚报</title>
+    <link>https://hugo.nbplus.eu.org/page/</link>
+    <description>Recent content in Pages on 周五晚报</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo.nbplus.eu.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>归档</title>
+      <link>https://hugo.nbplus.eu.org/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.nbplus.eu.org/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://hugo.nbplus.eu.org/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.nbplus.eu.org/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows. Hugo makes use of a variety of open source projects including: https://github.com/yuin/goldmark</description>
+    </item>
+    
+    <item>
+      <title>链接</title>
+      <link>https://hugo.nbplus.eu.org/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.nbplus.eu.org/links/</guid>
+      <description>To use this feature, add links section to frontmatter. This page&amp;rsquo;s frontmatter: links: - title: GitHub description: GitHub is the world&amp;#39;s largest software development platform. website: https://github.com image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png - title: TypeScript description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. website: https://www.typescriptlang.org image: ts-logo-128.jpg image field accepts both local and external images.</description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>https://hugo.nbplus.eu.org/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.nbplus.eu.org/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
