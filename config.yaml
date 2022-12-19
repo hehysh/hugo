@@ -82,7 +82,7 @@ params:
             clientSecret:
             autoCreateIssue: false
 
-       waline:
+        waline:
             enable: true #是否开启
             dark: 'body.darkmode--activated'
             serverURL: waline.hehysh.eu.org # Waline #服务端地址，我们这里就是上面部署的 Vercel 地址
