@@ -9,6 +9,10 @@ links:
     description: 天行健，君子以自强不息
     website: https://blog.nbplus.eu.org/
     image: https://blog.nbplus.eu.org/img/author.jpg
+  - title: 统计
+    description: 本站访问量统计
+    website: https://umami.hehysh.eu.org/share/eJO67DYN/zhoubao
+    image: 
   
 slug: "links"
 menu:
