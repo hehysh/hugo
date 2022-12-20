@@ -1,13 +1,13 @@
 ---
 title: 关于
-description:  websites
-date: '2019-02-28'
+description: 
+date: 2022-11-11
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: 2022-11-11
 comments: false
 slug: "about"
 menu:
@@ -17,7 +17,7 @@ menu:
             icon: user
 ---
 
-周五晚报为联盟对外宣传报刊，信息发布规定条例:（编写：顾奕铭、朱宇阔）
+周五晚报为联盟对外宣传报刊，信息发布规定条例:（编写：gym、zyk）
 
 1.国家大事不可不写，其余校外新闻最多写一条，国外消息若事态大则可写两条，若事态小则最多写一条；
 

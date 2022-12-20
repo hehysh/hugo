@@ -4,6 +4,11 @@ title: 第三期
 date: '2022-11-25'
 description: 和同学们聊聊世界杯和疫情！
 math: true
+tags:
+  - 疫情
+  - 世界杯
+  - 体测
+  - 数学
 ---
 周五晚报 第三期（注：第二期请移步至zyk，微信号zyk220601jeremy）
 编辑：9522 gym 9636 zyk

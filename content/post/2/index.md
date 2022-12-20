@@ -4,6 +4,10 @@ title: 第二期
 date: '2022-11-18'
 description: 疫情对学校生活的影响？
 math: true
+tags:
+  - 恶搞
+  - 五谷杂粮
+  - 水淹厕所
 ---
 撬门晚报 第二期
 

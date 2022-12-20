@@ -4,6 +4,12 @@ title: 第五期
 date: '2022-12-09'
 description: 
 math: true
+tags:
+  - 班班唱
+  - 语文
+  - 数学
+  - 月考
+  - 网课
 ---
 周五晚报第五期 编辑：zyk
 （本周gym 被罚禁言，）

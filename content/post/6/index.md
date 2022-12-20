@@ -4,6 +4,11 @@ title: 第六期
 date: '2022-12-16'
 description: 
 math: true
+tags:
+  - 网课
+  - 阳性
+  - 『向阳而生』
+  - 化学
 ---
 周五晚报第六期 编辑：9636zyk
 （gym生病没参与）
