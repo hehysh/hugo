@@ -1,7 +1,7 @@
 ---
 author: 周五晚报编辑部
 title: 第二期
-date: 2022-11-18
+date: '2022-11-18'
 description: 疫情对学校生活的影响？
 math: true
 ---

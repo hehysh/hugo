@@ -1,7 +1,7 @@
 ---
 author: 周五晚报编辑部
 title: 第一期
-date: 2022-11-11
+date: '2022-11-11'
 description: 周五晚报开更啦！
 math: true
 ---

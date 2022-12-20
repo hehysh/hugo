@@ -1,7 +1,7 @@
 ---
 author: 周五晚报编辑部
 title: 第三期
-date: 2022-11-25
+date: '2022-11-25'
 description: 和同学们聊聊世界杯和疫情！
 math: true
 ---

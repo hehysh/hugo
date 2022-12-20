@@ -35,12 +35,12 @@ params:
         lastUpdated: 
 
     sidebar:
-        emoji: 🍥
+        emoji: 
         subtitle: 独属于我们的报纸
         avatar:
-            enabled: false
+            enabled: true
             local: true
-            src: img/avatar.png
+            src: /img/avatar.png
 
     article:
         math: false
