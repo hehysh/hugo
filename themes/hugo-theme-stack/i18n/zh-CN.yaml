@@ -47,3 +47,13 @@ search:
 
     resultTitle:
         other: "#PAGES_COUNT 个结果 （用时 #TIME_SECONDS 秒）"
+
+footer:
+    createdBy:
+        other: 由 {{ .DesignedBy }} 倾力制作
+    
+    builtWith:
+        other: 由 {{ .Generator }} 搭建而成
+
+    designedBy:
+        other: 本站由 {{ .DesignedBy }} 倾力制作
