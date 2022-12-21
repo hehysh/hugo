@@ -181,6 +181,15 @@ menu:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
               icon: home
+        - identifier: Categories
+          name: 分类
+          url: /categories
+          weight: -100
+          params:
+              ### For demonstration purpose, the home link will be open in a new tab
+              newTab: false
+              icon: cubes
+        
 
 related:
     includeNewer: true

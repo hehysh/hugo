@@ -4,9 +4,13 @@ title: 第四期
 date: '2022-12-02'
 description: 
 math: true
+slug: 4
+tags:
   - 珍贵的体育课
   - 默哀
   - 数学
+categories:
+- 正刊
 ---
 周五晚报第四期（主编:gym、zyk）
 2022.11.29周二

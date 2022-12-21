@@ -4,4 +4,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description: 
 math: true
+slug: 
+tags:
+categories:
 ---
