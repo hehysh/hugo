@@ -12,6 +12,12 @@ categories:
 <div id="aplayer"></div>
 <script src="APlayer.min.js"></script>
 
+爷更新了一个上午官网，敲代码敲到虚脱，终于搞出来了！！
+添加了：
+-音乐播放器
+-视频播放器
+
+请打出：NB！！！！！！！！！！！！！！！
 
 {{< mark text="这是一个重点标记" >}}
 
@@ -23,3 +29,4 @@ categories:
 {{< blockquote author="电影" link="https://irithys.com" title="《寻梦环游记》" >}}
 死亡不是一切的终点，遗忘才是
 {{< /blockquote >}}
+
