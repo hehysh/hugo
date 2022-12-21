@@ -48,6 +48,7 @@ categories:
 6
 6
 6
+{{< video src="https://onedrive.hehysh.eu.org/api/raw/?path=/%E5%9B%BE%E5%BA%8A/zhoubao/video/20221221_032806000_iOS.mp4" poster="./video-poster.png" >}}
 
 6
 6
@@ -123,6 +124,5 @@ categories:
 6
 6
 
-6
-叫你不要点进来来hhhhhhhhhhhhhhhhhhh
-{{< music id="1923947296" type="song" server="netease" autoplay="true">}}
+
+{{< music id="1923947296" type="song" server="netease">}}

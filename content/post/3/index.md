@@ -65,5 +65,5 @@ gym的评论：赌球需谨慎，球队打假无常啊……
 第三版 9636zyk的研究报告：《用初三数学知识证明高一数学中的正弦、余弦、余切二倍角公式》（见补充图1+图2）
 （下接第二板块）
 
-![1](1.jpg)
-![2](2.jpg)
+![1](https://onedrive.hehysh.eu.org/api/raw/?path=/%E5%9B%BE%E5%BA%8A/zhoubao/img/20221221_084212848_iOS.jpg)
+![2](https://onedrive.hehysh.eu.org/api/raw/?path=/%E5%9B%BE%E5%BA%8A/zhoubao/img/20221221_084214100_iOS.jpg)

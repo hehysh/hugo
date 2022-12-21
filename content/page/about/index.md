@@ -9,6 +9,7 @@ aliases:
 license: CC BY-NC-ND
 lastmod: 2022-11-11
 comments: false
+image: "https://onedrive.hehysh.eu.org/api/raw/?path=/%E5%9B%BE%E5%BA%8A/zhoubao/img/20221221_090016353_iOS.png"
 slug: "about"
 menu:
     main: 
