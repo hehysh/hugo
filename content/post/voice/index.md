@@ -1,6 +1,6 @@
 ---
 author: 
-title: "测试！！开发版本路人请勿点击"
+title: "测试！！开发版本路人请勿点击2222"
 date: 2022-12-21T06:20:48Z
 description: 
 math: true
@@ -8,6 +8,11 @@ slug:
 tags:
 categories:
 ---
+<link rel="stylesheet" href="APlayer.min.css">
+<div id="aplayer"></div>
+<script src="APlayer.min.js"></script>
+
+
 {{< mark text="这是一个重点标记" >}}
 
 <br>
@@ -18,5 +23,4 @@ categories:
 {{< blockquote author="电影" link="https://irithys.com" title="《寻梦环游记》" >}}
 死亡不是一切的终点，遗忘才是
 {{< /blockquote >}}
-
-{{< music id="1993449232" type="song" server="netease" >}}
+asdassssssssssssssssssssssssssssssssssss
