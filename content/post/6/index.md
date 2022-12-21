@@ -31,3 +31,7 @@ categories:
 ​核耗氧是一个化学变化，化学方程式：U+O2=UO2；实验现象：核弹剧烈燃烧，放出大量的热，接着发生爆炸，释放出大量放射性物质；在进行“核耗氧”实验时，要先通入一段时间氧气，再点燃酒精灯，目的是排净空气，防止混合气体受热发生核聚变；实验结束后，要第一时间穿上防护服，及时整理实验现场，拨打119求救
 
 *本周编辑部只剩两名成员没阳，因此比较简陋*
+
+![1](https://onedrive.hehysh.eu.org/api/raw/?path=/%E5%9B%BE%E5%BA%8A/zhoubao/img/20221221_084205223_iOS.jpg)
+![2](https://onedrive.hehysh.eu.org/api/raw/?path=/%E5%9B%BE%E5%BA%8A/zhoubao/img/20221221_084206417_iOS.jpg)
+![3](https://onedrive.hehysh.eu.org/api/raw/?path=/%E5%9B%BE%E5%BA%8A/zhoubao/img/20221221_084209504_iOS.jpg)

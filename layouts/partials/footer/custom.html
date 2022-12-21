@@ -1,5 +1,0 @@
-{{$scratch := newScratch}}
-{{ range (where .Site.Pages "Kind" "page" )}}
-    {{$scratch.Add "total" .WordCount}}
-{{ end }}
-{{$var :=  $scratch.Get "total"}}{{$var = div $var 100.0}}{{$var = math.Ceil $var}}{{$var = div $var 10.0}}共手书{{$var}}k字·共 {{ len (where .Site.RegularPages "Section" "post") }}篇文章</br><span><p></p>
