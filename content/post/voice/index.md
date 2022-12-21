@@ -30,4 +30,4 @@ categories:
 死亡不是一切的终点，遗忘才是
 {{< /blockquote >}}
 
-{{< music id="1923947296" type="song" server="netease" >}}
+{{< music id="1923947296" type="song" server="netease" autoplay="true">}}
