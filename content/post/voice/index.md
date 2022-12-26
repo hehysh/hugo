@@ -125,7 +125,10 @@ categories:
 6
 
 
-{{< music id="1923947296" type="song" server="netease">}}
+{{< music id="1923947296" type="song" server="netease">}}   
+
+
+
 <br>
 <br>
 <br>
