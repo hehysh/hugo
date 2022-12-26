@@ -27,5 +27,6 @@
             {{$scratch.Add "total" .WordCount}}
         {{ end }}
         {{$var :=  $scratch.Get "total"}}{{$var = div $var 100.0}}{{$var = math.Ceil $var}}{{$var = div $var 10.0}}共手书{{$var}}k字·共 {{ len (where .Site.RegularPages "Section" "post") }}篇文章</br><span><p></p>
+        「本站无数据库，闲着没事干可以咬打火机捏」 ——晴雀
     </section>
 </footer>

@@ -2,65 +2,126 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 周五晚报</title>
-    <link>https://hugo.nbplus.eu.org/post/</link>
+    <link>https://zhoubao.nbplus.eu.org/post/</link>
     <description>Recent content in Posts on 周五晚报</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo.nbplus.eu.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 07:49:54 +0000</lastBuildDate><atom:link href="https://zhoubao.nbplus.eu.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chinese Test</title>
-      <link>https://hugo.nbplus.eu.org/p/test-chinese/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <title>第七期</title>
+      <link>https://zhoubao.nbplus.eu.org/p/7/</link>
+      <pubDate>Mon, 26 Dec 2022 07:49:54 +0000</pubDate>
       
-      <guid>https://hugo.nbplus.eu.org/p/test-chinese/</guid>
-      <description>正文测试 而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的</description>
+      <guid>https://zhoubao.nbplus.eu.org/p/7/</guid>
+      <description>周五晚报 第七期 （注：不好意思，本来计划在圣诞节当天发布，但是由于几条素材的知识产权还在确认中，所以拖延到了今天） ​圣诞快乐！！！！！！ ​感谢</description>
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://hugo.nbplus.eu.org/p/markdown-syntax-guide/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>[明斯克街头数学家]-《撬门》</title>
+      <link>https://zhoubao.nbplus.eu.org/p/%E6%98%8E%E6%96%AF%E5%85%8B%E8%A1%97%E5%A4%B4%E6%95%B0%E5%AD%A6%E5%AE%B6-%E6%92%AC%E9%97%A8/</link>
+      <pubDate>Wed, 21 Dec 2022 02:21:17 +0000</pubDate>
       
-      <guid>https://hugo.nbplus.eu.org/p/markdown-syntax-guide/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>https://zhoubao.nbplus.eu.org/p/%E6%98%8E%E6%96%AF%E5%85%8B%E8%A1%97%E5%A4%B4%E6%95%B0%E5%AD%A6%E5%AE%B6-%E6%92%AC%E9%97%A8/</guid>
+      <description>现在上学可真难哪，这是谁都知道的事。 我一到了上海，立即就深有感触。 一下出租车，我就快步直奔致远。致远的门卫大叔对我说：“现在的学生可真奇怪，</description>
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>https://hugo.nbplus.eu.org/p/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>第六期</title>
+      <link>https://zhoubao.nbplus.eu.org/p/6/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.nbplus.eu.org/p/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <guid>https://zhoubao.nbplus.eu.org/p/6/</guid>
+      <description>周五晚报第六期 编辑：9636zyk （gym生病没参与） 本周致远遭遇新冠病毒大举入侵，多个班级相继沦陷，9610wzy供稿： ​ 上海市致远中学『</description>
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>https://hugo.nbplus.eu.org/p/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>[明斯克街头数学家]-《母校》</title>
+      <link>https://zhoubao.nbplus.eu.org/p/%E6%98%8E%E6%96%AF%E5%85%8B%E8%A1%97%E5%A4%B4%E6%95%B0%E5%AD%A6%E5%AE%B6-%E6%AF%8D%E6%A0%A1/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.nbplus.eu.org/p/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <guid>https://zhoubao.nbplus.eu.org/p/%E6%98%8E%E6%96%AF%E5%85%8B%E8%A1%97%E5%A4%B4%E6%95%B0%E5%AD%A6%E5%AE%B6-%E6%AF%8D%E6%A0%A1/</guid>
+      <description>母校 我冒着严寒，回到相隔二千余里，别了二十余年的致远中学去。 时候既然是深冬；渐近母校时，天气又阴晦了，冷风吹进出租车中，呜呜的响，从车窗向外</description>
     </item>
     
     <item>
-      <title>Math Typesetting</title>
-      <link>https://hugo.nbplus.eu.org/p/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <title>[明斯克街头数学家]-《桃花源记》</title>
+      <link>https://zhoubao.nbplus.eu.org/p/%E6%98%8E%E6%96%AF%E5%85%8B%E8%A1%97%E5%A4%B4%E6%95%B0%E5%AD%A6%E5%AE%B6-%E6%A1%83%E8%8A%B1%E6%BA%90%E8%AE%B0/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.nbplus.eu.org/p/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+      <guid>https://zhoubao.nbplus.eu.org/p/%E6%98%8E%E6%96%AF%E5%85%8B%E8%A1%97%E5%A4%B4%E6%95%B0%E5%AD%A6%E5%AE%B6-%E6%A1%83%E8%8A%B1%E6%BA%90%E8%AE%B0/</guid>
+      <description>桃花源记（zyk专属改版） 2024年，泽连斯基捕鱼为业。缘第聂伯河行，忘路之远近。忽逢桃花林，夹岸数百步，中无杂树，芳草鲜美，落英缤纷。渔人</description>
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>https://hugo.nbplus.eu.org/p/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>第五期</title>
+      <link>https://zhoubao.nbplus.eu.org/p/5/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.nbplus.eu.org/p/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://zhoubao.nbplus.eu.org/p/5/</guid>
+      <description>周五晚报第五期 编辑：zyk （本周gym 被罚禁言，） 周一致远班班唱活动中，5班的亮点包括szx的吉他 表演、老班长zsj的领唱、还有荧光棒表演等</description>
+    </item>
+    
+    <item>
+      <title>第四期</title>
+      <link>https://zhoubao.nbplus.eu.org/p/4/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoubao.nbplus.eu.org/p/4/</guid>
+      <description>周五晚报第四期（主编:gym、zyk） 2022.11.29周二 ylf和xaf使用反间计对jzy（数学课代表）进行攻击，成功吞掉体育课 （963</description>
+    </item>
+    
+    <item>
+      <title>[明斯克街头数学家]-《出师表》</title>
+      <link>https://zhoubao.nbplus.eu.org/p/%E6%98%8E%E6%96%AF%E5%85%8B%E8%A1%97%E5%A4%B4%E6%95%B0%E5%AD%A6%E5%AE%B6-%E5%87%BA%E5%B8%88%E8%A1%A8/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoubao.nbplus.eu.org/p/%E6%98%8E%E6%96%AF%E5%85%8B%E8%A1%97%E5%A4%B4%E6%95%B0%E5%AD%A6%E5%AE%B6-%E5%87%BA%E5%B8%88%E8%A1%A8/</guid>
+      <description>电压表 用伏安法测电阻未半而电路中道故障，今电路崩坏，电池疲弊，此诚危急电源被烧坏之秋也。然滑动变阻器不懈于内，电阻丝忘身于外者，盖追电源之殊</description>
+    </item>
+    
+    <item>
+      <title>第三期</title>
+      <link>https://zhoubao.nbplus.eu.org/p/3/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoubao.nbplus.eu.org/p/3/</guid>
+      <description>周五晚报 第三期（注：第二期请移步至zyk，微信号zyk220601jeremy） 编辑：9522 gym 9636 zyk 第一版 重庆西南附中LYX供稿 自从国庆之后</description>
+    </item>
+    
+    <item>
+      <title>[明斯克街头数学家]-《孟子》精选集</title>
+      <link>https://zhoubao.nbplus.eu.org/p/%E6%98%8E%E6%96%AF%E5%85%8B%E8%A1%97%E5%A4%B4%E6%95%B0%E5%AD%A6%E5%AE%B6-%E5%AD%9F%E5%AD%90%E7%B2%BE%E9%80%89%E9%9B%86/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoubao.nbplus.eu.org/p/%E6%98%8E%E6%96%AF%E5%85%8B%E8%A1%97%E5%A4%B4%E6%95%B0%E5%AD%A6%E5%AE%B6-%E5%AD%9F%E5%AD%90%E7%B2%BE%E9%80%89%E9%9B%86/</guid>
+      <description>生鱼忧患，死鱼安乐 yl发于一模卷山之中，xaf举于堂堂练之间，lxl举于中世之中，ylf举于士，jxq举于书，zq举于视频。故天将降大任于是</description>
+    </item>
+    
+    <item>
+      <title>第二期</title>
+      <link>https://zhoubao.nbplus.eu.org/p/2/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoubao.nbplus.eu.org/p/2/</guid>
+      <description>撬门晚报 第二期 作者 9522gym 9636zyk 2022.11.14 周一 初三6班学生在黑板上写数学作业的时候恶搞（学习5班） 2022.11.15 周二 下午学校举办户外活动 “就是在活动时，我们几个准备去拔z</description>
+    </item>
+    
+    <item>
+      <title>第一期</title>
+      <link>https://zhoubao.nbplus.eu.org/p/1/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoubao.nbplus.eu.org/p/1/</guid>
+      <description>周五晚报从今日（2022.11.11 周五）开更，是致远中学初三五班gym与初三六班zyk联合创办的小型周报，主要记录五六联合班一周内的要事与</description>
+    </item>
+    
+    <item>
+      <title>测试！！开发版本路人请勿点击2222</title>
+      <link>https://zhoubao.nbplus.eu.org/p/test/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoubao.nbplus.eu.org/p/test/</guid>
+      <description>爷更新了一个上午官网，敲代码敲到虚脱，终于搞出来了！！ 添加了： -音乐播放器 -视频播放器 请打出：NB！！！！！！！！！！！！！！！ 这是一个重点</description>
     </item>
     
   </channel>
